@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/tvNo"
+        android:layout_weight="4"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/taginfo_name"
+        android:textSize="@dimen/list_title_textSize" />
+    <TextView
+        android:id="@+id/tvDate"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/taginfo_name"
+        android:textSize="@dimen/list_title_textSize" />
+    <TextView
+        android:id="@+id/tvTemperature"
+        android:textColor="@color/red"
+        android:layout_weight="3"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/taginfo_name"
+        android:textSize="@dimen/list_title_textSize" />
+
+</LinearLayout>

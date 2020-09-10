@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/tvNo"
+        android:gravity="center"
+        android:layout_weight="4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/exceeded_list_head_num"
+        android:textSize="@dimen/list_title_textSize" />
+    <TextView
+        android:id="@+id/tvDate"
+        android:gravity="center"
+        android:layout_weight="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/exceeded_list_head_date"
+        android:textSize="@dimen/list_title_textSize" />
+    <TextView
+        android:id="@+id/tvTemperature"
+        android:gravity="center"
+        android:layout_weight="3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/exceeded_list_head_temperature"
+        android:textSize="@dimen/list_title_textSize" />
+ 			
+</LinearLayout>

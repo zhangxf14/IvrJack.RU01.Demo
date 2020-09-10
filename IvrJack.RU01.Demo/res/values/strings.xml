@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">UHF Demo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">&gt;&gt;&gt;Start&lt;&lt;&lt;</string>
+    <string name="change_display">Point Diagram Display</string>
+    <string name="change_display2">Line Diagram Display</string>
+    
+    <string name="device_detecting">Device detecting&#8230;</string>
+    <string name="please_set_volum">Please set the volume to maximum!</string>
+    <string name="device_connected">Device connected.</string>
+    <string name="device_unrecognized">Device unrecognized.</string>
+    <string name="device_disconnected">Device disconnected.</string>
+    <string name="stop">&gt;&gt;&gt;Stop&lt;&lt;&lt;</string>
+    <string name="device_start_read_epc">Device start read epc</string>
+    <string name="device_start_read_epc_failed">Device start read epc failed: </string>
+    <string name="device_stop_read_epc">Device stop read epc</string>
+    <string name="battery_buzzer">Battery &amp; Buzzer</string>
+    <string name="reading">Reading&#8230;</string>
+    <string name="setting">Setting&#8230;</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed:</string>
+    <string name="running">Running&#8230;</string>
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+    <string name="lock">Lock</string>
+    <string name="kill">Kill</string>
+    <string name="temperature">Temperature</string>
+    <string name="diagram">Diagram</string>
+    <string name="read_tag_success">Read tag success</string>
+    <string name="read_tag_failed">Read tag failed: </string>
+    <string name="select_tag_failed">Select tag failed: </string>
+    <string name="writing">Writing&#8230;</string>
+    <string name="write_tag_success">Write tag success</string>
+    <string name="writr_tag_failed">Write tag failed: </string>
+    <string name="locking">Locking&#8230;</string>
+    <string name="lock_tag_success">Lock tag success</string>
+    <string name="lock_tag_failed">Lock tag failed:</string>
+    <string name="killing">Killing&#8230;</string>
+    <string name="kill_tag_success">Kill tag success</string>
+    <string name="kill_tag_failed">Kill tag failed: </string>
+    <string name="reading_tag">Reading tag&#8230;</string>
+    
+    
+    <string name="battery">Battery: </string>
+    <string name="beep">Beep: </string>
+<!--     <string name="act_OK">OK</string> -->
+<!--     <string name="act_OK">OK</string> -->
+<!--     <string name="act_OK">OK</string> -->
+<!--     <string name="act_OK">OK</string> -->
+<!--     <string name="act_OK">OK</string> -->
+    
+    
+    <string name="act_OK">OK</string>
+    
+    
+    <string name="diagram_to">to</string>
+	<string name="diagram_tiao">count</string>
+	<string name="sure">Sure</string>
+	<string name="exceeded_change">Change</string>
+	<string name="exceeded_list_head_num">No.</string>
+	<string name="exceeded_list_head_date">Date</string>
+	<string name="exceeded_list_head_temperature">Temperature</string>
+	<string name="mmError">min count can not bigger than max count</string>
+	<string name="temperature_diagram">Temperature Diagram</string>
+	<string name="exceeded_nor">count: %1$s . Change to Exceeded list</string> 
+	<string name="exceeded_ex">count: %1$s . Change to All list</string>
+	<string name="taginfo_name">Medicine:</string>
+</resources>
